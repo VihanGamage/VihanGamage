@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I play Badminton
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodadsilva&label=Profile%20views&color=0e75b6&style=flat" alt="chamodadsilva" /> </p>
-
+![https://komarev.com/ghpvc/?username=chamodadsilva&label=Profile%20views&color=0e75b6&style=flat](https://rushter.com/counter.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
