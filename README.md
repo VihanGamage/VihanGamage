@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I play Badminton
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vihangamage&label=Profile%20views&color=0e75b6&style=flat" alt="chamodadsilva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vihangamage&label=Profile%20views&color=0e75b6&style=flat" alt="vihangamage" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
