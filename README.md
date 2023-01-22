@@ -1,4 +1,4 @@
-Hola, I'm Vihan Gamage!👋
+<h2 align="left">Hola, I'm Vihan Gamage!👋</h2>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
