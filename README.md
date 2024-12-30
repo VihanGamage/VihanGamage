@@ -1,4 +1,4 @@
-<h2 align="left">I'm Vihan Gamage!👋</h2>
+<h2 align="left">I'm Vihan Gamage👋</h2>
 
 - 📫 How to reach me: vihanchandula@gmail.com
 
